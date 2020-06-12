@@ -1,0 +1,3 @@
+[submodule "simulation/models/servo_ax12a"]
+	path = simulation/models/servo_ax12a
+	url = https://github.com/TadielloM/servo_ax12a.git

@@ -1,0 +1,19 @@
+#Goal
+geometry_msgs/PoseStamped start
+geometry_msgs/PoseStamped home
+---
+#Result
+nav_msgs/Path path
+string status
+---
+#feedback
+string info
+
+# Define the goal
+# geometry_msgs/PoseStamped start
+# geometry_msgs/PoseArray goal_poses
+# -------
+# Define the result
+# nav_msgs/Path path
+# -------
+# Define a feedback message
